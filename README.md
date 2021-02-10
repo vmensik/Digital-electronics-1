@@ -11,7 +11,7 @@ Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio
 Aenean id metus id velit ullamcorper pulvinar. Phasellus rhoncus. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nulla non lectus sed nisl molestie malesuada. Praesent vitae arcu tempor neque lacinia pretium.
 
 ## Code examples
-### Example 1
+### Example 1 (Python)
 ```python
 s = "Hello, world!"
 print(s)
