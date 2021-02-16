@@ -69,4 +69,4 @@ end architecture dataflow;
 
 ### Screenshot of signal waveforms
 
-![] (https://github.com/vmensik/Digital-electronics-1/blob/main/01-gates/Capture.PNG)
+![A](https://github.com/vmensik/Digital-electronics-1/blob/main/01-gates/Capture.PNG)
