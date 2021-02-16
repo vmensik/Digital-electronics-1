@@ -2,6 +2,7 @@
 
 GitHub repository: [https://github.com/vmensik/Digital-electronics-1/](https://github.com/vmensik/Digital-electronics-1/)
 
+EDA Playground: [https://www.edaplayground.com/x/Mj6V](https://www.edaplayground.com/x/Mj6V)
 ## Code examples
 ### VHDL Code for both excercises
 ```VHDL
@@ -63,6 +64,8 @@ begin
 end architecture dataflow;
 
 ```
+
+
 
 ### Screenshot of signal waveforms
 
